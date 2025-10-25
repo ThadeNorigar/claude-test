@@ -20,6 +20,7 @@ class Colors:
     GREEN = '\033[32m'
     DARK_GREEN = '\033[38;5;28m'
     VERY_DARK_GREEN = '\033[38;5;22m'
+    YELLOW = '\033[1;33m'
     NC = '\033[0m'
     BOLD = '\033[1m'
 
